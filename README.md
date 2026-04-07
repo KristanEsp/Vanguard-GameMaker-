@@ -5,7 +5,7 @@
 </div>
 
 # Introduction
-Vanguard is a Defender remake that introduces new game mechanics that facilitates a high-risk and high-reward gameplay
+Vanguard is a Defender remake that introduces new game mechanics to facilitate a high-risk and high-reward gameplay
 
 ## 🎮 How to Download and Play
 1. Go to the **Releases** section of this repository.
