@@ -1,4 +1,4 @@
-<h1 align="center">Vanguard (Defender Remake)</h1>
+<h1 align="center">Vanguard</h1>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5efb3a15-3ac3-4a10-bd03-213fbd17d86b" alt="Demo" width="600">
