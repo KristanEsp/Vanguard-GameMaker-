@@ -35,4 +35,5 @@ Vanguard is a Defender remake that introduces new game mechanics to facilitate a
 - Restores bomb by moving
 
 
-*All artwork in this project was created by me.
+*Created October, 2023*.
+*All artwork in this project was created by me.*
